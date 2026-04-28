@@ -4,3 +4,4 @@ logs/*
 runs/*
 results/*
 experiment_logs/*
+src/__pycache__/*
