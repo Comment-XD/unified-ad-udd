@@ -1,0 +1,6 @@
+models/*
+data/*
+logs/*
+runs/*
+results/*
+experiment_logs/*
