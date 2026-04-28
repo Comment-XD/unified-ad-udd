@@ -5,6 +5,7 @@ runs/*
 results/*
 experiment_logs/*
 src/__pycache__/*
+__pycache__/*
 
 !data/.gitkeep
 !logs/.gitkeep
